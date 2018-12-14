@@ -18,7 +18,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Comparing the values of the invers if it the same we return the old cashed else calculate and update 
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
